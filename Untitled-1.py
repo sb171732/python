@@ -6,3 +6,4 @@ for i in range(len(b)):
     if b[i] in 'eyuioa':
         k += 1
 print(k)
+print(k)
